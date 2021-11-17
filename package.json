@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "twirpscript": "^0.0.19",
+    "typescript": "^4.4.4"
+  }
+}
